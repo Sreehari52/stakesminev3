@@ -1,7 +1,7 @@
 const { Telegraf, Markup, session } = require('telegraf');
 
 // Initialize the bot
-const BOT_TOKEN = '7023573128:AAHpumPCdu_L5aqczp9hZYntFuY_trgu3Wc';
+const BOT_TOKEN = 'c';
 if (!BOT_TOKEN) {
   throw new Error('BOT_TOKEN is missing');
 }
